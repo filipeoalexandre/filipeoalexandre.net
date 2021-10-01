@@ -1,0 +1,15 @@
+baseURL: 'http://example.org/'
+languageCode: en-us
+title: My New Hugo Site
+theme: "PaperMod"
+
+params:
+  profileMode:
+    enabled: true
+    subtitle: "Hello World, this is a test"
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/filipeoalexandre"
+    - name: "goodreads"
+      url: "https://www.goodreads.com/user/show/78138438-filipe"
