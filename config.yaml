@@ -1,15 +1,18 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://filipeoalexandre.net/'
 languageCode: en-us
-title: My New Hugo Site
+title: Filipe Alexandre
 theme: "PaperMod"
 
 params:
   profileMode:
     enabled: true
-    subtitle: "Hello World, this is a test"
+    subtitle: "Software Engineer with a curiosity for Cloud and Infrstructure"
+    imageUrl: "/images/me.png"
 
   socialIcons:
     - name: "github"
       url: "https://github.com/filipeoalexandre"
     - name: "goodreads"
       url: "https://www.goodreads.com/user/show/78138438-filipe"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/filipeoalexandre/"
