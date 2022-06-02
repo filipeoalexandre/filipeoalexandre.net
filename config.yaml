@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
   profileMode:
     enabled: true
-    subtitle: "Software Engineer with a curiosity for Cloud and Infrstructure"
+    subtitle: "Software Engineer with a curiosity for Cloud and Infrastructure"
     imageUrl: "/images/me.png"
 
   socialIcons:
